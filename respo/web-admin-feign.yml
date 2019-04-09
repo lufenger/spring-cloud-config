@@ -8,7 +8,6 @@ spring:
       servlet:
         content-type: text/html
         
-        
 server:
   port: 8765
 
